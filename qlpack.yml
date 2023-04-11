@@ -1,0 +1,6 @@
+---
+library: false
+name: hohn/codeql-dataflow-i-cpp
+version: 0.0.1
+dependencies:
+    codeql/cpp-all: "*"
